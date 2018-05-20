@@ -13,13 +13,13 @@
 
 	<!-- Fat Channel -->
     <ScriptClass
-			classID="{5DAD80A0-39FF-4DA5-88CC-1574692BA7FD}"
+			classID="{A9FB958A-F3E4-4400-89FE-2C9E9C99EAF3}"
 			category="EditTask"
 			subCategory ="TrackEdit"
 			name="Insert: Channel Strip"
 			sourceFile="plugins.js"
 			functionName="FatChannel"
-			metaClassID="{A5163F18-20D0-4872-ADD0-4F8AE449E31F}">
+			metaClassID="{B9C0D404-7E5D-4D3F-BC5D-1F1D6A9A3270}">
 			<Attribute id="menuPriority" value="-1"/>
 	</ScriptClass>
 
